@@ -95,6 +95,9 @@ p {
   p {
     font-size: 15px;
   }
+  h2 {
+    font-size: 38px !important;
+  }
   img {
     display: none;
   }
