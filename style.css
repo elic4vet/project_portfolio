@@ -90,15 +90,15 @@ p {
 
 @media (max-width: 576px) {
   h1 {
-    font-size: 48px;
-    line-height: 1.5;
+    font-size: 48px !important;
+    line-height: 1.5 !important;
   }
   p {
-    font-size: 15px;
+    font-size: 15px !important;
     text-align: center !important;
   }
   h2 {
-    font-size: 32px;
+    font-size: 32px !important;
     text-align: center !important;
   }
   img {
